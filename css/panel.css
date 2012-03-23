@@ -1,0 +1,51 @@
+.panelcontainer tr td {
+	vertical-align: top;
+	padding: 10px 10px 10px 10px;
+}
+.panelcontainer tr td td {
+	padding: 5px 5px 5px 5px;
+}
+
+.panelblock-outter {
+	border: 1px solid #666666;
+	border-radius: 5px;
+	padding: 5px 5px 5px 5px;
+	background: #FFFFFF;
+	width: 500px;
+	margin: 0px 0px 15px 0px;
+}
+
+.panelblock-inner {
+}
+
+.paneltitle {
+	border-radius: 5px;
+	padding: 5px 5px 5px 5px;
+	background: #6b8e23;	
+	float: left;
+	width: 490px;
+	margin: 0px 0px 10px 0px;
+}
+.paneltitle .paneltitletext a {
+	font-weight: bold;
+	padding: 0px;
+	margin: 0px;
+	color: #FFFFFF;
+	width: 70%;
+	float: left;
+	cursor: move;
+}
+.paneltitle .panelaction {
+	float: left;
+	width: 30%;
+	font-weight: bold;
+	text-align: right;
+}
+.paneltitle .panelaction a {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.panelcontent {
+	padding: 5px 5px 5px 5px;
+}

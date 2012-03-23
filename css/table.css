@@ -1,0 +1,35 @@
+.tabel {
+	border: 1px solid #CCCCCC;
+}
+.tabel th {
+	border: 1px solid #CCCCCC;
+	padding: 5px 5px 5px 5px;
+}
+.tabel td {
+	border: 1px solid #CCCCCC;
+	padding: 5px 5px 5px 5px;
+}
+
+.tbview td {
+	border-bottom: 1px solid #CCCCCC;
+}
+
+.tbview td table {
+	border: 0px;
+}
+
+.tbview td table td {
+	border: 0px;
+}
+
+.tbsum {
+    border: 1px solid #999999;
+    background: #EEEEEE;
+    padding: 5px 5px 5px 5px;
+}
+.tbsum td {
+    padding: 3px 3px 3px 3px;
+    font-weight: bold;
+}
+.topcat {
+}

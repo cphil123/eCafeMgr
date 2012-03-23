@@ -1,0 +1,142 @@
+body {
+    margin: 0px 0px 0px 0px;
+}
+a {
+    text-decoration: none;
+}
+h1, h2, h3, h4 {
+    color: #000000;
+}
+input, textarea, select {
+    font-family: Tahoma;
+    font-size: 12px;
+	padding: 3px;
+}
+
+#pembungkus_utama {
+    font-family: Tahoma;
+    font-size: 12px;
+}
+
+#blok_atas {
+    height: 120px;
+    background: url('../images/hd.jpg') bottom left repeat-x;
+}
+
+#blok_atas .judul_web {
+    font-family: "Trebuchet MS";
+    color: #FCFCFC;
+    padding: 20px 0px 0px 0px;
+    font-size: 24px;
+    font-weight: bold;
+	text-align: center;
+}
+#blok_atas .menu_atas {
+	height: 100px;	
+	padding: 10px 0px 0px 0px;
+}
+#blok_tengah {
+    padding: 0px 20px 10px 20px;
+}
+#blok_tengah .content {
+    padding: 0px 0px 0px 0px;
+    color: #000000;
+}
+#blok_bawah {
+    clear: both;
+    height: 50px;
+    padding: 20px 0px 0px 15px;
+}
+
+.tdata {
+    font-family: Tahoma;
+    font-size: 12px;
+    border: 1px solid #CCCCCC;
+}
+
+.tdata th {
+    font-weight: bold;
+    background: #D5FF7D;
+    padding: 5px 0px 5px 0px;
+    border: 1px solid #669900;
+}
+
+.tdata td {
+    padding: 5px 15px 5px 15px;
+    border: 1px solid #CCCCCC;
+}
+.headrow {
+    color: #FFFFFF;
+    background: #669900;
+}
+.headrow a {
+    color: greenyellow;
+}
+.mover {
+    background: #FFCCFF;
+}
+.mout {
+    background: #FFFFFF;
+}
+.space {
+    margin: 15px 0px 0px 0px;
+}
+.menu_utama h3 {
+    color: darkred;
+}
+.error {
+    color: #FF0000;
+    font-weight: bold;
+    margin: 5px 0px 5px 0px;
+}
+.dropbox {
+    margin: 5px 0px 0px 0px;
+}
+.inputbox {
+    border: 2px solid #669900;
+    margin: 5px 0px 0px 0px;
+    padding: 5px 5px 5px 5px;
+}
+.pagination {
+    font-size: 12px;
+    font-weight: bold;
+    color: #FF0000;
+}
+.pagination a {
+    font-size: 12px;
+    font-weight: bold;
+    color: #0000FF;
+}
+.noborder {
+    border: 0px;
+    background: #FFFFFF;
+}
+.scroll {
+    overflow: scroll;
+}
+.welcome {
+	font-size: 12px;
+	color: #FF6600;
+}
+.bold {
+	font-weight: bold;
+}
+.nodata {
+	color: #FF0000;
+}
+.panelfilter {
+	height: 25px;
+	font-weight: bold;
+	cursor: pointer;
+}
+#panelsign {
+	width: 15px;
+	height: 15px;
+	float: left;
+}
+.expand {
+	background: url('../images/expand.gif') top right no-repeat;
+}
+.collapse {
+	background: url('../images/expand.gif') top left no-repeat;
+}

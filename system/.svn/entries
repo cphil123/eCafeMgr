@@ -1,0 +1,95 @@
+10
+
+dir
+34
+svn://116.90.167.113/opt/repos/ecafemgr/trunk/system
+svn://116.90.167.113/opt/repos
+
+
+
+2011-11-26T08:18:39.300757Z
+32
+dwisp
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+f05b8a27-2101-4364-998f-4571f2a2c132
+
+scaffolding
+dir
+
+plugins
+dir
+
+helpers
+dir
+
+application
+dir
+
+cache
+dir
+
+language
+dir
+
+database
+dir
+
+logs
+dir
+
+fonts
+dir
+
+index.html
+file
+
+
+
+
+2008-12-12T05:31:40.000000Z
+0227cfd904e99656279202032b98d4a7
+2011-11-13T02:04:27.023372Z
+13
+dwisp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+114
+
+codeigniter
+dir
+
+libraries
+dir
+
